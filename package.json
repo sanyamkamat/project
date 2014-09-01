@@ -1,0 +1,22 @@
+{
+  "name": "samx",
+  "version": "0.0.0",
+  "description": "My first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanyamkamat/project.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Sanyam Kamat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanyamkamat/project/issues"
+  },
+  "homepage": "https://github.com/sanyamkamat/project"
+}
